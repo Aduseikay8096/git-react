@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Adusei deployment
+          Adusei deployment version control 
         </a>
       </header>
     </div>
